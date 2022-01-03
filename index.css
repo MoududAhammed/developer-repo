@@ -7,3 +7,26 @@ h1{
 #me{
     color: orange;
 }
+section{
+    display: flex;
+}
+.bio{
+    width: 50%;
+    padding-left: 5%;
+    text-align: justify;
+}
+.bio img{
+    width: 75%;
+}
+.button{
+    text-decoration: none;
+    color: Black;
+    background-color:rgb(28, 83, 250);
+    padding: 10px 40px;
+    border-radius: 6px;
+    font-weight: 900px;
+    
+}
+#link{
+    color: blue;
+}
