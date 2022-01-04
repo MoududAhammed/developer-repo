@@ -43,3 +43,11 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.client{
+    margin: 200px;
+    border-left: blueviolet solid 10px;
+}
+.client2{
+    margin: 200px;
+    border-left: tomato solid 10px;
+}
